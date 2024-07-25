@@ -1,0 +1,4 @@
+Task 3: https://stackoverflow.com/questions/5886987/true-or-false-output-based-on-a-probability
+for a function that returns tru with a fixed probability
+Task 1: https://www.studytonight.com/python-programs/binary-search-in-python
+for a binary search algorithm function

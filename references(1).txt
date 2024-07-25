@@ -1,0 +1,3 @@
+#https://machinelearninggeek.com/solving-linear-programming-using-python-pulp/
+
+for Linear Programming
